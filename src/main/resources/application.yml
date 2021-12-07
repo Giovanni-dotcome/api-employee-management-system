@@ -1,9 +1,0 @@
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: update
-    database-platform: org.hibernate.dialect.PostgreSQLDialect
-  datasource:
-    url: jdbc:postgres://mdsalwsdkakjrb:fb1c174d9c51e3a74cc488cd3efce50b5f2af17b8a752a314e8bdd2199c59fcd@ec2-176-34-105-15.eu-west-1.compute.amazonaws.com:5432/d9s3jrufoo4fi0
-    username: mdsalwsdkakjrb
-    password: fb1c174d9c51e3a74cc488cd3efce50b5f2af17b8a752a314e8bdd2199c59fcd
